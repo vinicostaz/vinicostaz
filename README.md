@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 22 years old, currently living in Brazil. I have fluency in English and have experience with JavaScript, SQL, Java, HTML and CSS. I'm also a person who is always exploring and leaning something new, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 22 years old, currently living in Brazil. I have fluency in English and have experience with JavaScript, SQL, Java, HTML and CSS. I'm also a person who is always exploring and learning something new, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
 </details>
 
 <!-- Links -->
