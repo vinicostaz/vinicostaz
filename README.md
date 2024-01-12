@@ -26,9 +26,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [CRUD - Frontend and Backend in Javascript using AXIOS and Node.js](https://github.com/vinicostaz/CRUD)
 - [Portfólio - My personal Portfólio](https://github.com/vinicostaz/Portfolio-Vinicius-Costa)
-
+- [CRUD - Frontend and Backend in Javascript using AXIOS and Node.js](https://github.com/vinicostaz/CRUD)
+- [Alura Plus - Frontend project using HTML and CSS](https://github.com/vinicostaz/Alura-Plus)
+- 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
